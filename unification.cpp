@@ -1,8 +1,7 @@
 
 #include<iostream>
 #include<string.h>
-#include <cctype>
-#include <cstring>
+
 using namespace std;
 
 int num_pred;
